@@ -2,7 +2,8 @@
 
 ## The Truth About Programmers:
 
-    An inexperienced programmer expects everything to work, but an experienced programmer expects everything to fail.
+An inexperienced programmer expects everything to work.  
+**An experienced programmer expects everything to fail.**
 
 ## The Only Two Rules Of Programming:
 
